@@ -3,10 +3,10 @@
 %
 % RELAXED specs:
 %
-% 
+% college project
 % Passband Ripple: 3 dB
 % Stopband Attenuation: 80 dB
-% Fpass = 16 kHz
+% Fpass = 16 kHz 
 % Fstop = 30 kHz
 
 %
