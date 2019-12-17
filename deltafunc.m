@@ -1,7 +1,7 @@
 %%
 %function return a delta function over the domain(given by range)
 %%which must include 
-%user defines shift value
+%user defines shift 
 function [vec]= deltafunc(shift,range)
 % x is a vector
 % We create an output vector of only 0 (our default value)
