@@ -1,4 +1,4 @@
-%%
+%%assignments
 %function return a delta function over the domain(given by range)
 %%which must include 
 %user defines shift 
