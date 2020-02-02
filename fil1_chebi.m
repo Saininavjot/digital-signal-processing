@@ -1,7 +1,6 @@
 %%
 % analog filter design
 %
-% RELAXED specs:
 %
 % college project
 % Passband Ripple: 3 dB
